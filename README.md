@@ -1,4 +1,4 @@
-# LangChain Multimodal Demo
+# LangChain Multimodel Demo
 
 This repository provides a Jupyter Notebook demonstrating how to build **multimodal pipelines** using [LangChain].
 The notebook integrates **text** and **image** inputs into a unified workflow, enabling tasks like visual reasoning, captioning, and multimodal question answering.
